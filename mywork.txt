@@ -1,0 +1,21 @@
+My associate id:
+845066
+Other team members:
+845031,844956,844957
+Team lead:
+845031
+
+My Role in team:
+1.I developed the local storage and made some validations
+My Development files:
+1.Script.js
+
+I was strong in:
+1.Html
+2.Bootstrap
+
+I was weak in:
+Javascript 
+
+Feedback:
+Good .....
